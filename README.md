@@ -53,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
