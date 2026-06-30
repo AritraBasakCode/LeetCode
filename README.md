@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -94,8 +96,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
