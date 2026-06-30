@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
