@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AritraBasakCode/LeetCode/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AritraBasakCode/LeetCode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AritraBasakCode/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AritraBasakCode/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AritraBasakCode/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
