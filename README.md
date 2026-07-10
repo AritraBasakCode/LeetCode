@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/AritraBasakCode/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AritraBasakCode/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
@@ -180,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/AritraBasakCode/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AritraBasakCode/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AritraBasakCode/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AritraBasakCode/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
