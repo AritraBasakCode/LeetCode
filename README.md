@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AritraBasakCode/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AritraBasakCode/LeetCode/tree/master/0089-gray-code) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AritraBasakCode/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBasakCode/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -139,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/AritraBasakCode/LeetCode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AritraBasakCode/LeetCode/tree/master/0089-gray-code) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
