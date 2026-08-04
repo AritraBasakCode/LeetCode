@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AritraBasakCode/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/AritraBasakCode/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AritraBasakCode/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AritraBasakCode/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/AritraBasakCode/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/AritraBasakCode/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AritraBasakCode/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
