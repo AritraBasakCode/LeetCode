@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/AritraBasakCode/LeetCode/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/AritraBasakCode/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AritraBasakCode/LeetCode/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/AritraBasakCode/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Bit Manipulation
 |  |
 | ------- |
