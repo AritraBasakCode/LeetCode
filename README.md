@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AritraBasakCode/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AritraBasakCode/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/AritraBasakCode/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/AritraBasakCode/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AritraBasakCode/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AritraBasakCode/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AritraBasakCode/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AritraBasakCode/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/AritraBasakCode/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
