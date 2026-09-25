@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AritraBasakCode/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AritraBasakCode/LeetCode/tree/master/0146-lru-cache) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraBasakCode/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AritraBasakCode/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/AritraBasakCode/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/AritraBasakCode/LeetCode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/AritraBasakCode/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AritraBasakCode/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AritraBasakCode/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/AritraBasakCode/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AritraBasakCode/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AritraBasakCode/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AritraBasakCode/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AritraBasakCode/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
