@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AritraBasakCode/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/AritraBasakCode/LeetCode/tree/master/0087-scramble-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/AritraBasakCode/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AritraBasakCode/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBasakCode/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AritraBasakCode/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AritraBasakCode/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AritraBasakCode/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AritraBasakCode/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AritraBasakCode/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AritraBasakCode/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraBasakCode/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AritraBasakCode/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AritraBasakCode/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/AritraBasakCode/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AritraBasakCode/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AritraBasakCode/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AritraBasakCode/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AritraBasakCode/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
