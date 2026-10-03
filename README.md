@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/AritraBasakCode/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/AritraBasakCode/LeetCode/tree/master/0087-scramble-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/AritraBasakCode/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AritraBasakCode/LeetCode/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AritraBasakCode/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AritraBasakCode/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/AritraBasakCode/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/AritraBasakCode/LeetCode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/AritraBasakCode/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AritraBasakCode/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AritraBasakCode/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
